@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Knewave");
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,600");
+#Nav {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  background-color: #373E40; }
+  #Nav .nav_menu {
+    width: 50vw;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; }
+  #Nav div {
+    color: #FFFFFA; }

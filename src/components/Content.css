@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Knewave");
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,600");
+#Content {
+  min-height: 120vh;
+  background-color: #104F55;
+  padding: 200px 0; }
+  #Content div {
+    height: 100px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 15px;
+    color: #373E40;
+    background-color: #FFFFFA;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    border-radius: 7px; }

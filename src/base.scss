@@ -1,0 +1,11 @@
+@import './variables.scss';
+@import './reset.scss';
+
+h1 {
+  font-family: $displayFontFamily;
+  font-size: 45px;
+}
+li {
+  font-family: $straightFontFamily;
+}
+

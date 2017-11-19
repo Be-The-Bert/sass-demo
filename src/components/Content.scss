@@ -1,0 +1,17 @@
+@import './../variables.scss';
+@import './../mixins.scss';
+
+#Content {
+  min-height: 120vh;
+  background-color: $mediumColor;
+  padding: 200px 0;
+  div {
+    height: 100px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 15px;
+    color: $darkColor;
+    background-color: $lightColor;
+    @include border-radius($borderRadius);
+  }
+}
