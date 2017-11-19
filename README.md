@@ -1,7 +1,7 @@
-A simple project demonstrating sass in React.
+# A simple project demonstrating sass in React.
 
-Features demonstrated:
-# Partials
-# Imports
-# Variables
-# Mixins
+## Features demonstrated:
+- Partials
+- Imports
+- Variables
+- Mixins
